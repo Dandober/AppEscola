@@ -1,0 +1,46 @@
+Arguments: 
+  /usr/bin/node /usr/share/yarn/bin/yarn.js install
+
+PATH: 
+  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  10.16.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: connect ECONNREFUSED 104.16.26.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1106:14)
+
+npm manifest: 
+  {
+    "name": "appdefaultescola",
+    "version": "0.0.0",
+    "description": "No description",
+    "author": null,
+    "private": true,
+    "main": "node_modules/expo/AppEntry.js",
+    "dependencies": {
+      "expo": "^33.0.0",
+      "react": "16.8.3",
+      "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+      "@expo/samples": "~3.0.0",
+      "firebase": "6.1.1",
+      "react-dom": "^16.8.6",
+      "react-native-paper": "2.15.2",
+      "react-native-web": "^0.11.4",
+      "react-navigation": "^3.11.0",
+      "react-navigation-material-bottom-tabs": "1.0.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

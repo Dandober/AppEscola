@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="FLOW" />
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/screens/Contacts.js" />
+    <file url="file://$PROJECT_DIR$/screens/trash/Azimute.js" />
+    <file url="file://$PROJECT_DIR$/screens/trash/CrudEx.js" />
+    <file url="file://$PROJECT_DIR$/screens/trash/Links.js" />
+  </component>
+  <component name="ReactNativePackager" nodePath="project" reactNativePackagePath="$PROJECT_DIR$/node_modules/react-native" workingDirectory="$PROJECT_DIR$">
+    <scripts>
+      <item value="expo" />
+      <item value="start" />
+    </scripts>
+  </component>
+</project>
